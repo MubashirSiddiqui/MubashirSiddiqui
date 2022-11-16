@@ -4,7 +4,7 @@ I'm a passionate Software Quality Assurance Engineer, Graphics Designer, Content
 
 #### I'm an Accessibility Analyst and Engineer based in Brooklyn, New York.
 
-- ❤️ Making a difference and improving Digital Accessibility @ **Wunderkind**
+- ❤️ Making a difference and improving Digital Accessibility 
 - 😎 Open to contracting opportunities if the project sounds cool.
 - 🏢 Previously a Test Engineer at **Riksof** & Odoo Developer at **Oventum Technologies**
 - ⚙️ Love workin with: `.psd`,`.jpg`,`.png`,`.gif`,`.ai`,`.js`, `.html`, `.scss`, `.json`, `.java`,`.py`
