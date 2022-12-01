@@ -1,6 +1,6 @@
 # Hi, I'm Mubashir Siddiqui 👋 🙍  
 
-I'm a passionate Software Quality Assurance Engineer, Graphics Designer, Content Creator and Data Anaysis. Easy going by nature and able to get along with both Team members and Higher Management. Experience of testing with UI/UX, Functional, System, and Regression testing. Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.Identify, analyse, and document problems with program function, output, online screen, or content. Investigate customer problems referred by technical support.
+I'm a passionate Software Quality Assurance Engineer, Graphics Designer, Content Creator and Data Anaysis. Easy going by nature and able to get along with both Team members and Higher Management. Experience of testing with UI/UX, Functional, System, and Regression testing.  Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.Identify, analyse, and document problems with program function, output, online screen, or content. Investigate customer problems referred by technical support.
 
 #### I'm an Accessibility Analyst and Engineer based in Karachi, Pakistan
 
