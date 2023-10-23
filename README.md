@@ -19,6 +19,6 @@ I'm a passionate Software Quality Assurance Engineer, Graphics Designer, Content
 - 😄 Passionate about accessibility and committed to a web that works for everyone.
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://de.linkedin.com/in/muhammad-mubashir-siddiqui-161092">LinkedIn</a>
+- 💼 Connecting and sharing professional updates on <a href="https://de.linkedin.com/in/mubashirsiddiquii">LinkedIn</a>
 - 🌐 Updating my personal website with examples of my work on <a href="https://mubashirsiddiqui.github.io/">Portfolio</a>
 - 🔎 Posting, memes and sharing tech posts on <a href="https://www.facebook.com/Iammubashirr">Facebook</a>
