@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MubashirSiddiqui&color=brightgreen&style=flat-square" alt="Profile Views" />
+  !<-- <img src="https://komarev.com/ghpvc/?username=MubashirSiddiqui&color=brightgreen&style=flat-square" alt="Profile Views" /> -->
 </div>
 # Hi, I'm Mubashir Siddiqui 👋 🙍  
 
