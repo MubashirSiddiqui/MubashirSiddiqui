@@ -24,4 +24,3 @@ I'm a passionate Software Quality Assurance Engineer, Graphics Designer, Content
 - 🌐 Updating my personal website with examples of my work on <a href="https://mubashirsiddiqui.github.io/">Portfolio</a>
 - 🔎 Posting, memes and sharing tech posts on <a href="https://www.facebook.com/Iammubashirr">Facebook</a>
 
-![](https://hit.yhype.me/github/profile?account_id=69625400)
