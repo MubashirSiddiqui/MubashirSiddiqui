@@ -1,6 +1,4 @@
-<div align="center">
-  !<-- <img src="https://komarev.com/ghpvc/?username=MubashirSiddiqui&color=brightgreen&style=flat-square" alt="Profile Views" /> -->
-</div>
+
 # Hi, I'm Mubashir Siddiqui 👋 🙍  
 
 I'm a passionate Software Quality Assurance Engineer, Graphics Designer, Content Creator and Data Anaysis. Easy going by nature and able to get along with both Team members and Higher Management. Experience of testing with UI/UX, Functional, System, and Regression testing
